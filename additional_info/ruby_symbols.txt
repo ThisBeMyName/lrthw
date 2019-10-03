@@ -1,0 +1,25 @@
+puts - Prints the code within it.
+"" - A string.
+# - A comment in the code. This will not be read when executing the code.
+#{} - It allows you to put Ruby code within a double-quoted string.
++ - Used in addition or adding things together.
+- - Used in subtracting.
+* - Used for multiplication.
+/ - Used for division.
+< - Less than.
+> - Greater than.
+<= - Less than or equal to.
+>= - Greater than or equal to.
+= - Assigns a value.
+% - This is the modulo operator. It finds the remainder after division of one number by another.
+\n - New line
+%{...} - This creates a string.
+%q{...} - String interpolation?
+\t - tabbed in
+\ - escape character
+.chomp - A string method. It removes the new line from any string.
+gets - lets the user input a line and returns it as a value to your program.
+$stdin - Is the input to the program given at the console.
+.open() - Opens a file.
+.read - Reads a file.
+.close - Closes a file.

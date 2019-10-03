@@ -1,0 +1,9 @@
+This is a test file. Can you see me in new_file.txt?
+
+And once again, to test, or maybe just to see the magic happen!
+
+And once more!
+
+And again with the practice script!
+
+Annnnnd again!
